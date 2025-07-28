@@ -41,14 +41,6 @@ An AI-powered health monitoring system using biometric inputs and facial express
 
 ---
 
-## 🎓 Education
-- **B.E. Computer Science and Engineering**  
-  *K. Ramakrishnan College of Engineering* | CGPA: **8.45**
-- **Higher Secondary:** 91%  
-- **Secondary:** 80%  
-
----
-
 ## 🏆 Certifications
 - ✅ **NPTEL Certificate** – IoT and Cloud Computing  
 - ✅ **Microsoft Azure Global Certification**  
